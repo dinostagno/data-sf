@@ -1,11 +1,11 @@
 {
-    "OpportunityLineItemID": 1,
-    "Product": "Producto de ejemplo",
-    "Quantity": 10,
-    "UnitPrice": 50.00,
-    "TotalPrice": 500.00,
-    "StartDate": "2023-10-10",
-    "EndDate": "2023-10-20",
-    "Description": "Descripción del producto de ejemplo"
-  }
+   "OpportunityLineItemID":1,
+   "Product":"Producto de ejemplo",
+   "Quantity":10,
+   "UnitPrice":50.00,
+   "TotalPrice":500.00,
+   "StartDate":"2023-10-10",
+   "EndDate":"2023-10-20",
+   "Description":"Descripción del producto de ejemplo"
+}
   
